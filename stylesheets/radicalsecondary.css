@@ -152,6 +152,11 @@ margin:0;
 padding:0; 
 } 
 
+h3 {
+ color:#FF0000;
+ size:50px;
+}
+
 
 #nav_right a:link,a:visited 
 { 
