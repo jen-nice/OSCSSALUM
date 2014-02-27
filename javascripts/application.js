@@ -17,6 +17,4 @@ $("#slideshow").hover(function() {
   var message = $("<span>Hbibti</span>");
   $("h1").text('message');*/
 });
-});
-
 
