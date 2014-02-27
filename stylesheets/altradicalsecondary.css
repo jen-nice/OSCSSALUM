@@ -153,7 +153,7 @@ padding:0;
 } 
 
 
-.navigation-a a:link,a:visited 
+#nav_right a:link,a:visited 
 { 
 color: #FFF; 
 font-weight:800;
@@ -162,7 +162,7 @@ padding:0px;
 text-decoration:none; 
 } 
 
-.navigation-a a:hover,a:active 
+#nav_right a:hover,a:active 
 { 
 color:orange;
 background-color:black;
