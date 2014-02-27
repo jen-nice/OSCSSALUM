@@ -172,7 +172,7 @@ padding-right:10px;
 text-decoration: none; 
 }
 
-.navigation-a {
+.navigation-a a {
 	width: 25%;
 	height:25px;
 	font-size:16px;
