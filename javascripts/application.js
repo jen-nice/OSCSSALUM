@@ -4,7 +4,7 @@ $(document).ready(function (){
 	fx: 'fade',
 	pause: 1,
 	prev: '#prev',
-	next: '#next'
+	next: '#next',
 });
 
 $("#slideshow").hover(function() {
