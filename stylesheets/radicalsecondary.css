@@ -152,10 +152,9 @@ margin:0;
 padding:0; 
 } 
 
-h3 {
- color:#FF0000;
- font-size:70px;
- display: inline;
+#semesters {
+	color:#FF0000;
+ font-size:60px;
 }
 
 
