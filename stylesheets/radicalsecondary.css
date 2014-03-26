@@ -23,7 +23,7 @@ body {
 	overflow: hidden;
 }
 
-#nav_left {
+.nohover {
 	width:10%;
 	float:left;
 }
