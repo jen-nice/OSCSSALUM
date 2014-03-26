@@ -16,14 +16,14 @@ body {
 	background-color:;
 }
 
-#logo {
-	font-size:3em;	/*equivalent to 42px */
-	margin-bottom:20px;
+.nohover {
+	width:10%;
+	float:left;
+	border= 0px;
 }
 
-#logo strong {
-	color:#ca1800;	
-	font-weight:bold;
+.nohover a:hover {
+	 background-color: transparent;
 }
 
 #body{
