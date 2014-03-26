@@ -23,12 +23,12 @@ body {
 	overflow: hidden;
 }
 
-.nohover {
+nav_left {
 	width:10%;
 	float:left;
 }
 
-.nohover a:hover {
+nav_left a:hover {
 	 background-color: transparent;
 }
 
