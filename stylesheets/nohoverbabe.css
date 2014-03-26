@@ -22,6 +22,7 @@ body {
 .nohover {
 	width:10%;
 	float:left;
+	border= 0px;
 }
 
 .nohover a:hover {
