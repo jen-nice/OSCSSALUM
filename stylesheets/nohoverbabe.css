@@ -1,0 +1,165 @@
+body {
+	background-color:#fdf7f7;
+	font-family:  'Arvo', serif, Helvetica, Arial;
+	font-size:14px;
+}
+
+#container {
+	width: 960px;
+	margin-left:auto;
+	margin-right:auto;	
+	margin-top:35px;
+	margin-bottom:10px;
+}
+
+
+#body{
+	background-color:;
+	margin-top:10px;
+	overflow: hidden;
+}
+
+.nohover {
+	width:10%;
+	float:left;
+}
+
+.nohover a:hover {
+	 background-color: transparent;
+}
+
+#nav_right {
+	width:90%;
+	height:40px;
+	background-color:#df5759; 
+	float:right; 
+}
+
+#mainbody {
+	height:500px;
+	font-size:20px;
+}
+
+#pagetopic {
+ 	height:70px;
+	margin-top:20px;
+	font-size:50px;
+}
+
+#mainbody_left {
+	margin-top:40px;
+	width:470px;
+	font-size:19px;
+	text-decoration:none;
+	float:left;
+}
+
+#mainbody a
+{
+	text-decoration:none;
+	color:blue;
+}
+
+#mainbody a:link,a:visited,a:hover,a:active 
+{ 
+	text-decoration:none;
+	background-color:none;
+	font-weight:800;
+	padding:10px;
+	} 
+
+
+#mainbody_left h1
+{ 
+font-size:25px;
+font-weight:bold;
+font-style:italic;
+}
+
+#mainbody_right {
+	width:450px;
+	float:right;
+	margin-left:10px;
+}
+
+#oscfacebook {
+	font-size:40px;
+	color: #009;
+}
+
+#footer {
+	background-color:#fdf7f7;
+	height:30px;
+	margin-top:20px;
+}
+
+#footer a
+{
+	color: black;
+}
+
+#footer a:link,a:visited  {
+	color: black; 
+	font-weight:800;
+	font-size:16px;
+	text-align: center; 
+	padding:0px; 
+	text-decoration:none;
+}
+
+#footer a:hover,a:active 
+{ 
+color:orange;
+/*text-decoration: none; */
+} 
+
+#footer ul {
+	text-align:center; /*to center align footer*/
+	text-decoration:none;
+}
+
+li
+{
+	display:inline;
+}
+
+ul 
+{ 
+list-style-type:none; 
+margin:0; 
+padding:0; 
+} 
+
+
+#nav_right a:link,a:visited 
+{ 
+color: #FFF; 
+font-weight:800;
+text-align:right; 
+padding:0px; 
+text-decoration:none; 
+} 
+
+#nav_right a:hover,a:active 
+{ 
+color:orange;
+background-color:black;
+padding:10px;
+padding-left:10px;
+padding-right:10px;
+text-decoration: none; 
+}
+
+#navigation-a {
+	width: 25%;
+	height:25px;
+	font-size:16px;
+	padding-top:12px;
+	padding-bottom:;
+	float: left;
+	color: #FC3;
+	text-decoration: none;
+	display:block;
+	background-color: #df5759;  /*red colour of the full navigation bar*/
+}
+
