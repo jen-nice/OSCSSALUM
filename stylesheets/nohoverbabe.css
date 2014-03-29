@@ -27,6 +27,7 @@ body {
 
 .nohover a:hover {
 	 background-color: transparent;
+	 position:absolute;
 }
 
 #nav_right {
