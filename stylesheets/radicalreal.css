@@ -20,7 +20,7 @@ body {
 }
 
 #body_right strong {
-	color: #FC3; /*#F96*/
+	color:#FC3; /*#F96*/
 	font-weight:bold;
 	font-size:30px;
 }
@@ -34,11 +34,11 @@ body {
 #body_left {
 	float:left;
 	background-color:#fdf7f7;
-    width:40%; /*410px*/
-    position: absolute;
-    left: 0px;
+        width:40%; /*410px*/
+        position: absolute;
+        left:0px;
 	margin-left:150px;
-    height:90%;
+        height:90%;
 }
 
 #body_right {
@@ -46,12 +46,12 @@ body {
 	font-weight:700;
 	color:#F99;
 	height:450px;
-	background-color: #df5759; 
+	background-color:#df5759; 
 	float:right;
 	width:60%; /*614px*/
-    position: absolute;
-    right: 0px;
-    height:95%;
+       position: absolute;
+       right:0px;
+       height:95%;
 }
 
 li{
