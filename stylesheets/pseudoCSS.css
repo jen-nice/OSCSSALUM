@@ -102,7 +102,7 @@ font-style:italic;
 	color: black;
 }
 
-#footer a:hover,a:active  {
+#footer a:link,a:visited  {
 	color: #000; 
 	font-weight:800;
 	font-size:16px;
@@ -111,12 +111,12 @@ font-style:italic;
 	text-decoration:none;
 }
 
-/*#footer a:hover,a:active 
+#footer a:hover,a:active 
 { 
 color:orange;
 background-color:;
 text-decoration: none; 
-} */
+} 
 
 #footer ul {
 	text-align:center; /*to center align footer*/
