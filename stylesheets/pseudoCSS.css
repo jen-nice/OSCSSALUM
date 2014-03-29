@@ -66,12 +66,12 @@ body {
 	color:blue;
 }
 
-#mainbody a:link,a:visited
+/*#mainbody a:link,a:visited
 { text-decoration:none;
 background-color:none;
 font-weight:800;
 padding:10px;
-	} 
+	} */
 
 
 #mainbody_left h1
@@ -97,15 +97,15 @@ font-style:italic;
 	margin-top:20px;
 }
 
-#footer a
+/*#footer a
 {
 	color: black;
-}
+}*/
 
 #footer a:link,a:visited  {
 	color: #000; 
 	font-weight:800;
-	font-size:25px;
+	font-size:16px;
 	text-align: center; 
 	padding:0px; 
 	text-decoration:none;
@@ -114,7 +114,6 @@ font-style:italic;
 #footer a:hover,a:active 
 { 
 color:orange;
-background-color:pink;
 text-decoration: none; 
 } 
 
@@ -165,6 +164,10 @@ padding-right:10px;
 text-decoration: none; 
 }
 
+.nohover {
+text-decoration:none;
+background-color:none;
+}
 #navigation-a {
 	width: 25%;
 	height:25px;
