@@ -34,8 +34,7 @@ body {
 #body_left {
 	float:left;
 	background-color:#fdf7f7;
-    width: 40%;
-    /*410px*/
+    width: 40%;/*410px*/
     position: absolute;
     left: 0px;
 	margin-left:150px;
@@ -54,6 +53,18 @@ body {
     right: 0px;
     height: 95%;
 }
+
+li{
+	display: inline;
+}
+
+ul {
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+}
+
+
 
 #body_right a
 {
