@@ -146,7 +146,7 @@ padding:0;
  display: inline;
 }
 
-#nav_right a:link,a:visited 
+.hover a:link,a:visited 
 { 
 color: #FFF; 
 font-weight:800;
