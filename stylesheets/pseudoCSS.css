@@ -66,26 +66,14 @@ body {
 	color:blue;
 }
 
-#mainbody a:link,a:visited,a:hover,a:active 
+#mainbody a:link,a:visited
 { text-decoration:none;
 background-color:none;
 font-weight:800;
 padding:10px;
 	} 
 
-/* #mainbody_left a
-{
-	text-decoration:none;
-	color:blue;
-}
 
-#mainbody_left a:link,a:visited,a:hover,a:active 
-{ text-decoration:none;
-background-color:none;
-font-weight:800;
-padding:10px;
-	} */
-	
 #mainbody_left h1
 { font-size:25px;
 font-weight:bold;
@@ -123,12 +111,12 @@ font-style:italic;
 	text-decoration:none;
 }
 
-#footer a:hover,a:active 
+/*#footer a:hover,a:active 
 { 
 color:orange;
 background-color:;
 text-decoration: none; 
-} 
+} */
 
 #footer ul {
 	text-align:center; /*to center align footer*/
@@ -137,7 +125,7 @@ text-decoration: none;
 
 li
 {
-	display:inline;
+display:inline;
 }
 
 ul 
@@ -167,7 +155,7 @@ padding:0px;
 text-decoration:none; 
 } 
 
-#nav_right a:hover,a:active 
+.hover  
 { 
 color:orange;
 background-color:black;
