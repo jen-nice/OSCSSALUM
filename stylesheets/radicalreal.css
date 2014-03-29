@@ -1,6 +1,6 @@
 body {
 	background-color:#fdf7f7; /*#df5759, #fdf7f7*/
-	font-family: 'Arvo', serif, Helvetica, Arial;
+	font-family:'Arvo', serif, Helvetica, Arial;
 	font-size:14px;
 	overflow: hidden;
 }
@@ -38,20 +38,20 @@ body {
     position: absolute;
     left: 0px;
 	margin-left:150px;
-    height: 90%;
+    height:90%;
 }
 
 #body_right {
 	font-size:25px;
 	font-weight:700;
-	color: #F99;
-	height: 450px;
+	color:#F99;
+	height:450px;
 	background-color: #df5759; 
 	float:right;
 	width:60%; /*614px*/
     position: absolute;
     right: 0px;
-    height: 95%;
+    height:95%;
 }
 
 li{
