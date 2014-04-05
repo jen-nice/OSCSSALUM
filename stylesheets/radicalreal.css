@@ -1,5 +1,5 @@
 body {
-	background-color:#fdf7f7; /*#df5759, #fdf7f7*/
+	background-color:#fdf7f7; 
 	font-family:'Arvo', serif, Helvetica, Arial;
 	font-size:14px;
 	overflow: hidden;
@@ -20,13 +20,13 @@ body {
 }
 
 #body_right strong {
-	color:#FC3; /*#F96*/
+	color:#FC3; 
 	font-weight:bold;
 	font-size:30px;
 }
 
 #body{
-	background-color:#df5759; /*#fdf7f7*/
+	background-color:#df5759;
 	margin-top:10px;
 	overflow: hidden;
 }
@@ -35,7 +35,7 @@ body {
 	float:left;
 	background-color:#fdf7f7;
         width:40%; /*410px*/
-        /*position: absolute;*/
+        position: absolute;
         left:0px;
 	margin-left:150px;
         height:90%;
@@ -49,7 +49,7 @@ body {
 	background-color:#df5759; 
 	float:right;
 	width:60%; /*614px*/
-       /*position: absolute;*/
+       position: absolute;
        right:0px;
        height:95%;
 }
