@@ -26,7 +26,7 @@ body {
 }
 
 #body{
-	background-color:#df5759;
+	background-color:#fdf7f7; /*#df5759;*/
 	margin-top:10px;
 	overflow: hidden;
 }
