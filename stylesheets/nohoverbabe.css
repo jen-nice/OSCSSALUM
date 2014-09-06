@@ -89,14 +89,14 @@ font-style:italic;
 }
 
 #semesters {
-	color:#FF0000;
- font-size:60px;
+	color:#FF00FF; /*#FF0000;*/
+ 	font-size:60px;
 }
 
 #semesters h3 {
-	color:#FF0000;
- font-size:30px;
- display: inline;
+	color: #FF00FF /*#FF0000;*/
+ 	font-size:30px;
+ 	display: inline;
 }
 
 
