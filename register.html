@@ -13,8 +13,6 @@
 </head>
 
 <body>
-  <?php include 'sendemail.php';?>
-  
 <div id="container">
   <div id="header">
     <div id="body">
@@ -44,8 +42,10 @@
   
   
   
-  <form method="post" action="sendmail.php">
+  <form method="post" name="registration-form" action="sendmail.php">
+  Name: <input name="name" type="text" /><br />
   Email: <input name="email" type="text" /><br />
+  Semester: <input name="semester" type="text" /><br />
   Message:<br />
   <textarea name="message" rows="15" cols="40">
   </textarea><br />
